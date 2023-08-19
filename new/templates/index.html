@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>I-Care Chatbot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="chat-container">
+        <div class="logobox">
+            <img class="logo" src="{{ url_for('static', filename='chathead.png') }}" alt="">
+            <h2 class="chat-title">I-Care Interactive Chatbot</h2>
+        </div>
+        <div id="chat-history"></div>
+        <textarea id="user-input"></textarea>
+        <button id="send-button">Send</button>
+        <button id="clear-button">Clear Chat</button>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
