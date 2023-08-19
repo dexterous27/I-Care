@@ -25,6 +25,7 @@ The I-Care Interactive Chatbot is designed to provide comprehensive assistance t
 
 #### Quick Links:
 - [Project Files on Google Drive](https://drive.google.com/drive/folders/1yTvkK7V6N7PMsv4hEz48qx1oD9fT2uf6)
+- [Survey Dataset on Google Spreadsheets](https://docs.google.com/spreadsheets/d/1GlAJps8wUYmG1SlUhmqotzNXwoFZM1WfymCaQRXcRac/edit#gid=640079492)
 - [I-Care on Heroku](https://icarechatbot-7d5f29b45cdd.herokuapp.com/)
 - [Lambton College, Toronto](https://www.lambtoncollege.ca/toronto/)
 
